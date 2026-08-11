@@ -1,0 +1,21 @@
+name: GitHub Readme YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # roda a cada hora
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC_-gj2vjlVcrANxRC0r54VQ
+</content>
