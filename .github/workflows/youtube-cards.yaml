@@ -11,14 +11,10 @@ env:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v5
-
       - name: Generate YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
