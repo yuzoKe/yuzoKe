@@ -19,3 +19,4 @@ jobs:
         uses: yuzoKe/github-readme-youtube-cards@main
         with:
           channel_id: "UC_-gj2vjlVcrANxRC0r54VQ"
+          show_duration: false
