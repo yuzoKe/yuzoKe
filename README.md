@@ -101,6 +101,11 @@ Looking for a software development internship. If you're after someone who's alr
 ### ▶️ Vídeos Recentes
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Estudando para Cálculo I](https://ytcards.demolab.com/?id=HLooSy9g_38&title=Estudando+para+C%C3%A1lculo+I&lang=en&timestamp=1774491868&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Estudando para Cálculo I")](https://www.youtube.com/watch?v=HLooSy9g_38)
+[![Como destacar uma linha de forma automática no Excel - Formatação Condicional](https://ytcards.demolab.com/?id=4NIGLlD97ZQ&title=Como+destacar+uma+linha+de+forma+autom%C3%A1tica+no+Excel+-+Formata%C3%A7%C3%A3o+Condicional&lang=en&timestamp=1728670293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como destacar uma linha de forma automática no Excel - Formatação Condicional")](https://www.youtube.com/watch?v=4NIGLlD97ZQ)
+[![Tem como codar dentro do Excel! | Habilitando a Guia de Desenvolvedor no Excel](https://ytcards.demolab.com/?id=dSi315mg7iM&title=Tem+como+codar+dentro+do+Excel%21+%7C+Habilitando+a+Guia+de+Desenvolvedor+no+Excel&lang=en&timestamp=1728619150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tem como codar dentro do Excel! | Habilitando a Guia de Desenvolvedor no Excel")](https://www.youtube.com/watch?v=dSi315mg7iM)
+[![Como usar VLOOKUP em 40 segundos](https://ytcards.demolab.com/?id=x5eMKhNxhLw&title=Como+usar+VLOOKUP+em+40+segundos&lang=en&timestamp=1728497933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como usar VLOOKUP em 40 segundos")](https://www.youtube.com/shorts/x5eMKhNxhLw)
+[![Como usar VLOOKUP em 40 segundos - Excel](https://ytcards.demolab.com/?id=Q2XuYjaPJhM&title=Como+usar+VLOOKUP+em+40+segundos+-+Excel&lang=en&timestamp=1728497712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como usar VLOOKUP em 40 segundos - Excel")](https://www.youtube.com/watch?v=Q2XuYjaPJhM)
+[![How to VLOOKUP in 40 seconds](https://ytcards.demolab.com/?id=RS1aZKZ1O2A&title=How+to+VLOOKUP+in+40+seconds&lang=en&timestamp=1728493879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to VLOOKUP in 40 seconds")](https://www.youtube.com/shorts/RS1aZKZ1O2A)
 <!-- END YOUTUBE-CARDS -->
 </content>
