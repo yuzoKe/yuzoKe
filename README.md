@@ -42,6 +42,13 @@ Looking for a software development internship. If you're after someone who's alr
         />
     </a>
 </p>
+<a href="https://github.com/yuzoKe/yuzoKe/actions/workflows/youtube-cards.yaml">
+    <img 
+        alt="GitHub Actions status" 
+        title="Status da automação dos vídeos do YouTube"
+        src="https://github.com/yuzoKe/yuzoKe/actions/workflows/youtube-cards.yaml/badge.svg?branch=main"
+    />
+</a>
 
 ---
 
