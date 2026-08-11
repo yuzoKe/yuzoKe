@@ -20,7 +20,12 @@ jobs:
         uses: yuzoKe/github-readme-youtube-cards@main
         with:
           channel_id: "UC_-gj2vjlVcrANxRC0r54VQ"
-
+          
+      - name: Debug generated README
+        shell: bash
+        run: |
+          grep -oE ".{0,80}(timestamp|amp;timestamp).{0,80}" README.md || true
+          
       - name: Remove YouTube publication dates
         shell: bash
         run: |
