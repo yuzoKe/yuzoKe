@@ -2,15 +2,13 @@
 
 **`Desenvolvedor FullStack and Data Science student`**
 
-Hi! My name is Eduardo Yuzo Kubota, I'm 23 years old with 5+ years of experience building and shipping real software in production.
-I've been running Seido Afiações since 2020 and somewhere along the way, I became a developer out of necessity.
-The business needed speed and data — so I built a full ERP from scratch in VBA/Excel that used to handle service orders, inventory, split payments and financial closing.
+Hi! My name is Eduardo Yuzo Kubota, I'm 23 years old with 5+ years of experience building and shipping real software in production. I've been running Seido Afiações since 2020 and somewhere along the way, I became a developer to solve the business's own problems. It needed speed and data — so I built a full ERP from scratch in VBA/Excel that handled service orders, inventory, split payments, and financial closing.
 
-On my last summer break I rebuilt Seido's entire ERP from scratch in Python/FastAPI — 28 days from first commit to production cutover, replacing a 5+ year old Excel/VBA system. 617 commits in ~2 months, migrated 52,000+ service orders and R$1M+ in historical financial records with zero data loss. 850+ automated tests. Built CRM features, financial analytics (RFM, cohorts, DRE), and real hardware integration. Certified in AI (IBM) and Data Science in Finance (USP Poli). Fluent in English.
+On my last summer break I rebuilt Seido's entire ERP from scratch in Python/FastAPI — 28 days from first commit to production cutover, replacing a 5+ year old Excel/VBA system. 617 commits in ~2 months, migrated 52,000+ service orders and R$1M+ in historical financial records with zero data loss. 950+ automated tests. Built CRM features, financial analytics (RFM, cohorts, DRE), and real hardware integration. Certified in AI (IBM) and Data Science in Finance (USP Poli). English C2 (EF SET 78/100).
 
-In 2025, I placed 2nd in a multi-institutional hackathon with FATEC, UNESP, and UNIVESP — 48 hours, 25 teams, a game shipped from scratch.
-I'm also a Brazilian Jiu-Jitsu purple belt. I train because I like getting better at hard things — and that applies to code too.
-Looking for a software development internship. If you're after someone who's already built real projects to solve real problems and wants to keep growing, send me a message.
+In 2025, I placed 2nd in a multi-institutional hackathon with FATEC, UNESP, and UNIVESP — 48 hours, 25 teams, a game shipped from scratch. I'm also a Brazilian Jiu-Jitsu purple belt. I train because I like getting better at hard things — and that applies to code too.
+
+I run Seido day to day and keep evolving its system — and, alongside that, I'm looking for a tech internship where I can learn, contribute, and keep growing as a developer. If you're after someone who already builds real things to solve real problems, reach out.
 
 <p align="left">
     <a href="https://www.youtube.com/@oeduardokubota?sub_confirmation=1">
